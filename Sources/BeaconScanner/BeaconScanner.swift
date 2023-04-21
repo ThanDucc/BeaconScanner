@@ -74,6 +74,7 @@ extension BeaconScanner: CLLocationManagerDelegate {
                 }))
                 window.rootViewController?.present(alert, animated: true, completion: nil)
             }
+            
             return
         }
         
