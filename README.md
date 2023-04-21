@@ -1,3 +1,3 @@
 # BeaconScanner
 
-A description of this package.
+This framework is built to scan beacon signal
