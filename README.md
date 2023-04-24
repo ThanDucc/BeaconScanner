@@ -27,5 +27,5 @@ Usage:
 6. Handle when scan successfully 
 
 - in func rangingBeacon(beacons: [CLBeacon]) {
-        //
+        // Handle here
     }
